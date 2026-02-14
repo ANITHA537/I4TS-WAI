@@ -1,0 +1,2 @@
+# I4TS-WAI
+ T6_MBA_IIM_Ranchi
