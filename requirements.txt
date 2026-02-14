@@ -1,0 +1,10 @@
+streamlit
+pulp
+pandas
+numpy
+plotly
+scikit-learn
+highspy
+python-docx
+matplotlib
+openpyxl
